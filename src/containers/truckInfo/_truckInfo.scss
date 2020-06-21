@@ -1,0 +1,29 @@
+.truck-card-container {
+    overflow: scroll;
+}
+
+.truck-card {
+    padding: 10px;
+    margin: 0 0 10px;
+    border: 1px solid #1594EC;
+    height: auto;
+    text-align: left;
+    box-shadow: 0 1px 5px #888888;
+}
+
+.truck-card-link {
+    color: #1F2326;
+    text-decoration: none;
+}
+
+.distance-error {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 2em;
+    text-align: center;
+}
+
+.foodInfo {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}

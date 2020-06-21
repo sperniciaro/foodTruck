@@ -1,3 +1,8 @@
+@import "./containers/map/map";
+@import "~bootstrap/scss/bootstrap";
+@import "./containers/searchTrucks/searchTrucks";
+@import "./containers/truckInfo/truckInfo";
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

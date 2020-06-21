@@ -1,0 +1,22 @@
+.truckListContainer {
+    overflow: scroll;
+    background: #ffffff;
+    border: 10px solid #FEB403;
+    height: 80%;
+    width: 30%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.truckCard {
+    padding: 10px;
+    margin: 20px 0;
+    border: solid 3px black;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.truckCardLink {
+    color: #1F2326;
+    text-decoration: none;
+}

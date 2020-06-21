@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  max-width: 100%;
+}
+
+.AppHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #FEAE13;
+}
+
+.AppLink {
+  color: #61dafb;
+}
+
+.col {
+  min-width: auto;
+}
